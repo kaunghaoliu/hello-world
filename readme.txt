@@ -1,3 +1,3 @@
-First time to use Github and will continue to use it for my work.
+First time to use Github.
 
 Now I am trying to pull request.
